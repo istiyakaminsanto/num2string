@@ -5,6 +5,7 @@
     "type": "library",
     "keywords": ["text", "text2number"],
     "license": "MIT",
+    "version": "1.0.0",
     "authors": [
         {
             "name": "Istiyak Amin",
