@@ -12,3 +12,24 @@
     "minimum-stability": "stable",
     "require": {}
 }
+
+{
+    "name": "istiyak/numbertotext",
+    "description": "it's just simple php package and it's converted number to text",
+    "type": "library",
+    "keywords": ["text", "text2number"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Istiyak Amin",
+            "email": "istiyakaminsanto@gmail.com",
+            "homepage": "https://istiyak.xyz"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.9"
+    },
+    "autoload": {
+        "psr-4": {"Cocur\\Slugify\\": "src"}
+    }
+}
