@@ -1,0 +1,14 @@
+{
+    "name": "istiyak/numbertotext",
+    "description": "it's just simple php package and it's converted number to text",
+    "type": "composer-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "istiyakaminsanto",
+            "email": "istiyakaminsanto@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
